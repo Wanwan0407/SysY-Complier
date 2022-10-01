@@ -1,7 +1,8 @@
 #include<stdio.h>
+#define max_n 100
 int main() {
 	int a, b, i, t, n;
-
+	//此处为注释
 	a = 0;
 	b = 1;
 	i = 1;
